@@ -1,0 +1,59 @@
+body{
+	font-size:17px;
+	background: #E9E9E9;
+}
+
+form{
+	margin-left:400px;
+    	padding:10px;
+    	border:solid;
+    	border-color:black;
+    	border-width:2px;
+    	border-radius:10px;
+	width:500px;
+}
+
+#showScenario {
+	display: none;
+}
+
+#showScenario table {
+	text-align: center;
+	font-size:17px;
+}
+
+#showScenario table td, #showScenario table th {
+	width: 120px;
+}
+
+.error{
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+	color: red;
+	font-size: 20px;
+}
+
+#result table{
+	text-align: center;
+	font-size:16px;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#result td, #result th {
+	margin: 5px;
+	width: 150px;
+}
+
+.center{
+	text-align:center;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.title{
+	
+	margin-left:200px; 
+}
+
